@@ -24,8 +24,6 @@ Keep all four libraries installed together: some depend on each other.
 
 Each sketch is inside a matching folder so Arduino IDE can open it normally.
 
-The uploaded Kalman files had a `(1)` suffix. They are named `KalmanVertVel.cpp` and `KalmanVertVel.h` here to match the existing include statements. No flight logic was intentionally edited.
-
 ## 3. Run the PC bridge
 
 Connect the RadioMaster Pocket as a USB joystick and connect the Nano to the laptop.
